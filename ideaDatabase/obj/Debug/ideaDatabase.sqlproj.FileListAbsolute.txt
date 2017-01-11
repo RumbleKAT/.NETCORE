@@ -1,0 +1,9 @@
+c:\msp\ideacore\ideaDatabase\bin\Debug\ideaDatabase.dacpac
+c:\msp\ideacore\ideaDatabase\bin\Debug\ideaDatabase.dll
+c:\msp\ideacore\ideaDatabase\bin\Debug\ideaDatabase.pdb
+c:\msp\ideacore\ideaDatabase\obj\Debug\Model.xml
+c:\msp\ideacore\ideaDatabase\obj\Debug\refactor.xml
+c:\msp\ideacore\ideaDatabase\obj\Debug\postdeploy.sql
+c:\msp\ideacore\ideaDatabase\obj\Debug\predeploy.sql
+c:\msp\ideacore\ideaDatabase\obj\Debug\ideaDatabase.dll
+c:\msp\ideacore\ideaDatabase\obj\Debug\ideaDatabase.pdb
